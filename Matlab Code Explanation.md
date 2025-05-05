@@ -158,3 +158,5 @@ gencost: [66×7 double]
 ---
 # References
 [MATPOWER Documentation — MATPOWER Documentation 8.0 documentation](https://matpower.org/doc/)
+[How to Perform Optimal Power Flow Analysis of IEEE 9 Bus System in MATPOWER | Dr. J. A. Laghari - YouTube](https://www.youtube.com/watch?v=_XZp_vQZGe0)
+[How to Perform Load Flow Analysis of IEEE 9 Bus System in MATPOWER Toolbox | Dr. J. A. Laghari - YouTube](https://www.youtube.com/watch?v=dJd9_rU8Wag)
